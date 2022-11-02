@@ -12,7 +12,7 @@ return false;
  }
 
 let ans=checkPrime(13)
-if(ans!=true){
+if(ans==true){
 console.log("prime")
 }else{ 
 console.log("not prime") 
